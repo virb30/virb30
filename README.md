@@ -1,16 +1,23 @@
+# Vinícius Bôscoa
+
+[![LinkedinBadge](https://img.shields.io/badge/Linkedin-Vinicius%20Boscoa-blue)](https://www.linkedin.com/in/vinicius-boscoa/)
+
 ### Hi there 👋
 
-<!--
-**virb30/virb30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer engineer, information security specialist. 
 
-Here are some ideas to get you started:
+Passionate about solving problems with programming
+Fullstack developer at UNISAGRADO
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:purple_heart: &nbsp; Looking for colaborate in Back-end or fullstack projects in PHP or Typescript
+
+:book: &nbsp; Currently learning Software Architecture (DDD, TDD, SOLID, DRY) & Python (Django)
+
+:blush: &nbsp; I can help with PHP, Typescript and SQL
+
+:computer: &nbsp; Stacks: 
+- ReactJS, Node.js, React Native, & Typescript
+- PHP (CodeIgniter)
+
+💬  &nbsp; About me: Passionate about technology, games, series and cybersecurity
+
