@@ -1,6 +1,6 @@
 # Vinícius Bôscoa
 
-[![LinkedinBadge](https://img.shields.io/badge/Linkedin-Vinicius%20Boscoa-blue)](https://www.linkedin.com/in/vinicius-boscoa/)
+[![LinkedinBadge](https://img.shields.io/badge/Vinicius%20Boscoa-blue?logo=LinkedIn&link=https://www.linkedin.com/in/vinicius-boscoa/)](https://www.linkedin.com/in/vinicius-boscoa/)
 
 ### Hi there 👋
 
