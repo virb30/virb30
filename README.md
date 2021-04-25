@@ -26,10 +26,14 @@ Engenheiro de computação, especialista em segurança da informação. Atuo com
 * [Site](https://viniboscoa.dev)
 
 
-## Projetos:
+## Principais Projetos:
+
+### Programação:
 
 * **[Mapeamento de ativos de TI](https://bit.ly/390kfbu)**
 * **[WebScraping: Coleta de notas do ENEM](https://bit.ly/3o4livx)**
+
+### Data Science:
 * **[Classificação de Imagens utilizando Deep Learning](https://github.com/virb30/portfolio/blob/master/notebooks/009_EDS_Projeto_Fashion_MNIST.ipynb)**
 
 ---
