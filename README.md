@@ -10,6 +10,12 @@ Engenheiro de computação, especialista em segurança da informação. Atuo com
 
 **Experiência em:** Python, PHP, Laravel, Javascript, Vue.js, React, Node.JS, Javascript, HTML, CSS, Bootstrap, MySQL/MariaDB, Oracle, Postgres, TDD, Docker e docker-compose
 
+
+**Estudando:**
+* Data science
+* Django
+
+
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/viniciusboscoa)
 * [Site](https://viniboscoa.dev)
