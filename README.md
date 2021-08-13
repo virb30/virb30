@@ -22,18 +22,9 @@ Engenheiro de computação, especialista em segurança da informação. Atuo com
 * [Site](https://viniboscoa.dev)
 
 
-## Principais Projetos:
+## [Portfólio Data Science](https://github.com/virb30/data_science)
 
-### Programação:
+## Principais Projetos:
 
 * **[Mapeamento de ativos de TI](https://bit.ly/390kfbu)**
 * **[WebScraping: Coleta de notas do ENEM](https://bit.ly/3o4livx)**
-
-### [Portfólio Data Science](https://github.com/virb30/data_science)
-
-
-
-
-
-
-
