@@ -29,8 +29,7 @@ Engenheiro de computação, especialista em segurança da informação. Atuo com
 * **[Mapeamento de ativos de TI](https://bit.ly/390kfbu)**
 * **[WebScraping: Coleta de notas do ENEM](https://bit.ly/3o4livx)**
 
-### Data Science:
-* **[Classificação de Imagens utilizando Deep Learning](https://github.com/virb30/data_science/blob/master/notebooks/009_EDS_Projeto_Fashion_MNIST.ipynb)**
+### [Portfólio Data Science](https://github.com/virb30/data_science)
 
 
 
