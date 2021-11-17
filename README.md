@@ -7,7 +7,7 @@
 </p>
 
 # Vinícius Bôscoa
-<sub>*Desenvolvedor de Sistemas* no UNISAGRADO</sub>
+<sub>*Desenvolvedor Web Fullstack*</sub>
 
 Engenheiro de computação, especialista em segurança da informação. Atuo como desenvolvedor de sistemas com ênfase em aplicações Web, resolvendo problemas reais de uma instituição de ensino superior com desenvolvimento de software, fui capaz de aprimorar minhas habilidades análiticas, de trabalho em equipe, atenção aos detalhes, resolução de problemas e resolução de problemas.
 
